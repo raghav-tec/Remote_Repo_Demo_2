@@ -6,3 +6,5 @@ Test-3
 test-5
 test-6
 test-7
+
+Feature-1 test case added
